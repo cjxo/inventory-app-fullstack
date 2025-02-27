@@ -1,0 +1,6 @@
+[submodule "inventory-app-server"]
+	path = inventory-app-server
+	url = git@github.com:cjxo/inventory-app-server.git
+[submodule "inventory-app-client"]
+	path = inventory-app-client
+	url = git@github.com:cjxo/inventory-app-client.git

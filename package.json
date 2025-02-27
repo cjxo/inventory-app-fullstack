@@ -1,0 +1,13 @@
+{
+  "name": "inventory-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix inventory-app-server && npm install --prefix inventory-app-client && npm run build --prefix inventory-app-client",
+    "start": "npm install start --prefix inventory-app-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
